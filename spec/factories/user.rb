@@ -5,4 +5,3 @@ FactoryBot.define do
     kind { %i[knight wizard].sample }
   end
 end
-
